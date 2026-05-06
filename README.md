@@ -38,7 +38,3 @@
 ## Tech Stack
 
 `Android` `Kotlin` `Java` `Jetpack Compose` `Gradle` `JavaScript` `HTML` `GitHub Actions`
-
-## GitHub Stats
-
-动态卡片只作为辅助信息；如果加载失败，上面的项目列表仍然是主要内容。
