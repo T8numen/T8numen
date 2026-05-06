@@ -42,8 +42,3 @@
 ## GitHub Stats
 
 动态卡片只作为辅助信息；如果加载失败，上面的项目列表仍然是主要内容。
-
-<p>
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=T8numen&show_icons=true&hide_title=true&hide_rank=true&hide_border=true" alt="T8numen GitHub stats" />
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T8numen&layout=compact&hide_title=true&hide_border=true&langs_count=6" alt="T8numen most used languages" />
-</p>
